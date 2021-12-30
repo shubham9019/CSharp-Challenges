@@ -1,0 +1,16 @@
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\BSTSearch.exe
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\BSTSearch.deps.json
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\BSTSearch.runtimeconfig.json
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\BSTSearch.runtimeconfig.dev.json
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\BSTSearch.dll
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\ref\BSTSearch.dll
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\bin\Debug\net5.0\BSTSearch.pdb
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.csproj.AssemblyReference.cache
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.AssemblyInfoInputs.cache
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.AssemblyInfo.cs
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.csproj.CoreCompileInputs.cache
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.dll
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\ref\BSTSearch.dll
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.pdb
+C:\Users\shusharm24\source\repos\BSTSearch\BSTSearch\obj\Debug\net5.0\BSTSearch.genruntimeconfig.cache

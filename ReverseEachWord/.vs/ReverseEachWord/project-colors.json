@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ebbcf88-8a55-4eed-afab-74d5d2a44937": {
+      "ProjectGuid": "6ebbcf88-8a55-4eed-afab-74d5d2a44937",
+      "DisplayName": "ReverseEachWord",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

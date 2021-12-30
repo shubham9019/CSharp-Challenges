@@ -1,0 +1,16 @@
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\RotateArray.exe
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\RotateArray.deps.json
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\RotateArray.runtimeconfig.json
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\RotateArray.runtimeconfig.dev.json
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\RotateArray.dll
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\ref\RotateArray.dll
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\bin\Debug\net5.0\RotateArray.pdb
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.csproj.AssemblyReference.cache
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.AssemblyInfoInputs.cache
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.AssemblyInfo.cs
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.dll
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\ref\RotateArray.dll
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.pdb
+C:\Users\shusharm24\source\repos\RotateArray\RotateArray\obj\Debug\net5.0\RotateArray.genruntimeconfig.cache

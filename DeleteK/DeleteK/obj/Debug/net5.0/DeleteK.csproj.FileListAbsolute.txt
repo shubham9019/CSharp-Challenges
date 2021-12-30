@@ -1,0 +1,16 @@
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\DeleteK.exe
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\DeleteK.deps.json
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\DeleteK.runtimeconfig.json
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\DeleteK.runtimeconfig.dev.json
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\DeleteK.dll
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\ref\DeleteK.dll
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\bin\Debug\net5.0\DeleteK.pdb
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.csproj.AssemblyReference.cache
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.AssemblyInfoInputs.cache
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.AssemblyInfo.cs
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.csproj.CoreCompileInputs.cache
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.dll
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\ref\DeleteK.dll
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.pdb
+C:\Users\shusharm24\source\repos\DeleteK\DeleteK\obj\Debug\net5.0\DeleteK.genruntimeconfig.cache

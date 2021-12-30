@@ -1,0 +1,16 @@
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.exe
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.deps.json
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.runtimeconfig.json
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.runtimeconfig.dev.json
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.dll
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ref\ReverseEachWord.dll
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.pdb
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.csproj.AssemblyReference.cache
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.AssemblyInfoInputs.cache
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.AssemblyInfo.cs
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.csproj.CoreCompileInputs.cache
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.dll
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ref\ReverseEachWord.dll
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.pdb
+C:\Users\shusharm24\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.genruntimeconfig.cache
